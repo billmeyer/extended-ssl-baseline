@@ -1,0 +1,12 @@
+name: extended-ssl-baseline
+title: InSpec Profile
+maintainer: Bill Meyer
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Apache-2.0
+summary: An InSpec Profile that will correctly harden an Apache HTTPd SSL Configuration
+version: 0.1.0
+
+depends:
+  - name: ssl-baseline
+    git: https://github.com/dev-sec/ssl-baseline
