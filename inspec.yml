@@ -1,5 +1,5 @@
 name: extended-ssl-baseline
-title: InSpec Profile
+title: Extended SSL/TLS Baseline
 maintainer: Bill Meyer
 copyright: Chef Software, Inc.
 copyright_email: support@chef.io
